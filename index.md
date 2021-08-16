@@ -163,7 +163,7 @@
             <a href="#close" title="Close" class="close">×</a>
           </div>
           <div class="modal-body">
-            Содержимое модального окна...
+            <script>!function(a,m,o,c,r,m){a[o+c]=a[o+c]||{setMeta:function(p){this.params=(this.params||[]).concat([p])}},a[o+r]=a[o+r]||function(f){a[o+r].f=(a[o+r].f||[]).concat([f])},a[o+r]({id:"795628",hash:"8f4f7bf2aee0d17f5adf41f72e1bb6ca",locale:"ru"})}(window,0,"amo_forms_","params","load");</script><script id="amoforms_script_795628" async="async" charset="utf-8" src="https://forms.amocrm.ru/forms/assets/js/amoforms.js?1629102329"></script>
           </div>
         </div>
       </div>
